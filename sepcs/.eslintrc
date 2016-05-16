@@ -1,0 +1,18 @@
+{
+  "extends": "../.eslintrc",
+  "env": {
+    "mocha": true,
+    "node": true,
+  },
+  "rules": {
+    "no-unused-expressions": 0,
+  },
+  "globals": {
+    "useEnv": true,
+    "expect": true,
+    "Sinon": true,
+    "request": true,
+    "fakeTimer": true,
+    "mocksHttp": true,
+  }
+}

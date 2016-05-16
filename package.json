@@ -25,6 +25,7 @@
   },
   "homepage": "https://github.com/timnew/crabber#readme",
   "dependencies": {
+    "approot": "^0.2.1",
     "babel-core": "^6.8.0",
     "babel-plugin-transform-decorators-legacy": "^1.3.4",
     "babel-plugin-transform-es2015-destructuring": "^6.8.0",
@@ -38,6 +39,7 @@
     "bluebird": "^3.3.5",
     "cheerio": "^0.20.0",
     "fast-csv": "^2.0.0",
+    "moment": "^2.13.0",
     "node-fetch": "^1.5.2",
     "ramda": "^0.21.0"
   },
